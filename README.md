@@ -1,30 +1,25 @@
-<h1>BPM  Project (https://github.com/mtisya/Bens-BPM-System/).</h1>
+<h1>Blog Website Project (https://github.com/mtisya/Blog-Website/).</h1>
 
 <h2>About The Project</h2>
 
-<p>We developed this Business Process Management Sysytem, with the aim of automation of the repetitive processes and the need to reduce paper work this software is designed to help administration in day to day learning of the business in all department, It implements a turn-around document designed to provide the solution where all kinds of data needed to perform a given tasks is centralized</p>
+<p>This Blog Website is build with PHP/Laravel Framework, A technological news platform designed to publish new articles and allow readers to comment and register or subscribe for newsletter. Its fit for personal blogger with the best security features put in place. </p>
 
 <h4>Home Page</h4>
 
 
-![Capture4](https://user-images.githubusercontent.com/8428844/231167111-6e4e1e30-efd2-4c8f-a824-69b9bf653fab.PNG)
+![Capture7](https://user-images.githubusercontent.com/8428844/231216660-d949dc80-2998-4a8f-b003-23f048c22895.PNG)
 
-
-<p> The development process gave me enjoyable and creative experience and is truly fulfilling. In this project I gained more experience and techniques in software/system development, enriched my knowledge in HTML, CSS(bootstrap), PHP, and javaScript, jQuery:</p>
+<p> The development process gave me enjoyable and creative experience and is truly fulfilling. In this project I gained more experience and techniques in software/system development, enriched my knowledge in PHP/Laravel Framework and the implementation of MVC platform in websites and not forgetting the mail and newsletter services.</p>
 
 <h4>Main Features</h4> 
 
-1. Unique automated orderNumber
-2. Turn Around Document - T.O.D.
-3. Consolidated Reports 
+1. Newsletter Services 
+2. Listing for Mailing services
+3. Dynamic creation of the articles
 
-<h4>Unique automated orderNumber</h4>
+<h4>Article Page</h4>
 
-![Capture5](https://user-images.githubusercontent.com/8428844/231167187-fc1e08b7-e66b-4cdb-a71a-b08ab2582204.PNG)
-
-<h4>Turn Around Document - T.O.D.</h4>
-
-![Capture6](https://user-images.githubusercontent.com/8428844/231167335-d4099cca-66e5-4997-8dc4-44cd65838838.PNG)
+![Capture8](https://user-images.githubusercontent.com/8428844/231218029-993912ef-0240-4407-8fc4-262d1f7c7805.PNG)
 
 <h4>Project Demo</h4>
 
